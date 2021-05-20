@@ -4,4 +4,4 @@ This code produces a count of genes present in many full-text publications relat
 
 # Installation and Running
 
-See RunGetPubtator.R
+See RunPmcTermGenes.R
